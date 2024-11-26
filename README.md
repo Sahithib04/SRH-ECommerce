@@ -4,7 +4,7 @@ SRH E-Commerce is a minimalistic, user-friendly e-commerce platform designed to 
 🚀 Live Demo
 Check out the live version of the project here:
 👉 [SRH E-Commerce Live Link](https://sahithib04.github.io/SRH-ECommerce/)
-
+![image Alt](https://imagesvs.oneindia.com/img/2024/11/srh2-1732437839.jpg)
 
 📜 Features
 Responsive Design: Works seamlessly across devices.
